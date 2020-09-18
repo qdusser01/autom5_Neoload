@@ -1,0 +1,11 @@
+GET http://practice.neotys.com/jpetstore/images/bird2.gif HTTP/1.1
+Host: practice.neotys.com
+Proxy-Connection: keep-alive
+Authorization: Basic bGVhcm5lcjpuM290eXM=
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://practice.neotys.com/jpetstore/shop/searchProducts.shtml
+Accept-Encoding: gzip, deflate
+Accept-Language: fr,en;q=0.9,fr-FR;q=0.8,en-US;q=0.7
+Cookie: JSESSIONID=3DEEB4150C28B3379BDDA526982FE6FA; __utma=179381947.236282964.1600336774.1600336774.1600336774.1; __utmc=179381947; __utmz=179381947.1600336774.1.1.utmcsr=answers.neotys.com|utmccn=(referral)|utmcmd=referral|utmcct=/questions/824939-use-java-script-neoload
+

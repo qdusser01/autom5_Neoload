@@ -1,0 +1,17 @@
+POST http://practice.neotys.com/jpetstore/shop/searchProducts.shtml HTTP/1.1
+Host: practice.neotys.com
+Proxy-Connection: keep-alive
+Content-Length: 19
+Cache-Control: max-age=0
+Authorization: Basic bGVhcm5lcjpuM290eXM=
+Upgrade-Insecure-Requests: 1
+Origin: http://practice.neotys.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://practice.neotys.com/jpetstore/shop/index.shtml
+Accept-Encoding: gzip, deflate
+Accept-Language: fr,en;q=0.9,fr-FR;q=0.8,en-US;q=0.7
+Cookie: JSESSIONID=B849EA11E8E9003D47C9D13E3C82B7BB; mf_user=1ffebdea9c1c2c69518c0803f2d0c8dd|; keyCampaignId=7010J0000010vKb; keyCampaignStatus=Responded; keyIncomingSource=Web+Direct; _gcl_au=1.1.633329564.1599727599; _ga=GA1.2.1057434403.1599727599; _fbp=fb.1.1599727599277.1664415558; OptanonAlertBoxClosed=2020-09-10T08:47:58.118Z; licenseneoloadaccepted=true; OptanonConsent=isIABGlobal=false&datestamp=Thu+Sep+10+2020+11%3A52%3A47+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=6.5.0&hosts=&consentId=df24f90a-ad5f-4363-8308-e8eb520b8cd3&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=%3B&AwaitingReconsent=false
+
+keyword=pet&x=9&y=6
